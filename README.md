@@ -1,7 +1,7 @@
 
 # The _technologic_ public license
 
-> A license you can dance on while reading.
+> A license you can dance on while reading ♬
 
 Full text below :
 
@@ -32,3 +32,5 @@ Full text below :
 
 Based on the MIT License available at https://opensource.org/licenses/mit-license.php.  
 Original lyrics by Daft Punk.
+
+📺 https://www.youtube.com/watch?v=D8K90hX4PrE
