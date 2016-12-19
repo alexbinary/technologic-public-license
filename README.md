@@ -1,7 +1,7 @@
 
 # The _technologic_ public license
 
-> A license you can dance on while reading.
+> A license you can dance on while reading. ♬
 
 Full text below :
 
